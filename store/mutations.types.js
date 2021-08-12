@@ -1,0 +1,8 @@
+export const LOGIN = 'login'
+export const LOGOUT = 'logout'
+export const ADD_TO_CART = 'add_to_cart'
+export const CHECK = 'check_change'
+export const ALL_CHECK = 'check_all_change'
+export const ADD_COUNTER = 'add_counter'
+export const ADD = 'add'
+export const CUT = 'cut'

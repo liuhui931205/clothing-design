@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage"
+  }
+}

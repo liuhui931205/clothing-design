@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "num-box": "/components/num-box"
+  }
+}

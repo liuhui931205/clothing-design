@@ -1,0 +1,1 @@
+<view class="num-box"><view data-event-opts="{{[['tap',[['cut',['$event']]]]]}}" class="cuts" bindtap="__e">-</view><view class="nums">{{''+$root.m0+''}}</view><view data-event-opts="{{[['tap',[['add',['$event']]]]]}}" class="adds" bindtap="__e">+</view></view>
